@@ -43,7 +43,7 @@ Made from Plastic
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](flowchart.jpg)
+![Image](Flowchart.jpg)
 
 ## Physical experimentation documentation ##
 
