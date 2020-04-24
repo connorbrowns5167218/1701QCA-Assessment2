@@ -32,13 +32,13 @@ This project is related to mine because *insert reasons here*.
 My design intent is to create a cosplay sword prop that incoporates the microbit. I plan to add lights and sounds.
 
 ### Design concept 1 ###
-Made from Wood
+Initially I wanted to create my sword prop from wood using the laser cutter and workshop, however due to the Covid-19 pandemic this is no longer possible for me. I tried reaching out to some friends of friends that I knew did woodworking but I couldn't find anybody willing to let me use their workshop.
 
 ### Design concept 2 ###
-Made from Foam
+My second idea was to create the sword mostly out of foam. While this would likely be the cheapest and easiest method I feel it wouldn't turn out the best and would be very delicate.
 
 ### Final design concept ###
-Made from Plastic
+My final decision was to use plastic for most of the sword design. For the hilt I plan to use PVC piping. This works well as I plan to store my battery packs inside the hilt, and the PVC pipes are already hollow. For the handguard and blade I intend to use acrylic either painted or covered in foam. I will house my microbit inside the hollow handguard and my LED Strip will run up the back of the blade. I will cover the blade and cut out a lightning design along the sides, so when the LED strip is turned on the light will pass through the acrylic and shine out of the lightning.
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -56,9 +56,15 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](SwordProject.jpg)
 
+I laid out how I will create each piece of my prop and fit them together using Adobe Illustrator, and made sure to include measurements.
+
 ![Image](Microbit.jpg)
 
+My current circuit layout to be improved upon.
+
 ![Image](Lights.jpg)
+
+I have figured out how to turn on my LED strip, I plan to make it more complex in the future, possibly with different movements adjusting how they light up.
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
